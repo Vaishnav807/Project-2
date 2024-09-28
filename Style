@@ -1,0 +1,134 @@
+#place{
+    background-color: #2C3E50;
+    color: white;
+}
+
+#movie {
+    background-color: #FFD700;
+}
+
+#hobby {
+    background-color: #6DBE45;
+}
+
+a {
+    color: beige;
+}
+
+#place p, #movie p, #hobby p, #right-side2, #left-side2, #middle2 {
+    text-align: center;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#home p {
+    text-align: center;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+    font-family: cursive;
+}
+
+header {
+    text-align: center;
+    font-size: 34px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#home p::first-letter {
+    font-size: 36px;
+}
+
+#right-side, #right-side2, #right-side3 {
+    width: 33.33%;
+    float: right;
+    text-align: center;
+}
+
+#left-side, #left-side2, #left-side3 {
+    width: 33.33%;
+    float: left;
+    text-align: center;
+}
+
+#middle, #middle2, #middle3 {
+    width: 33.33%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#place-page {
+    text-align: center;
+    filter: blur(5px);
+    transition: filter 3s;
+}
+
+#place-page.interactive-page:hover {
+    filter: blur(0px);
+}
+
+#movie-page {
+    text-align: center;
+}
+
+#place-page img, #movie-page img{
+    width: 600px;
+    height: 300px;
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+#left-side2:active::after{
+    background-color: limegreen;
+    content: " YOU DID IT!";
+}
+
+#middle2:active::after{
+    background-color: red;
+    content: " Soo close";
+}
+
+#right-side2:active::after{
+    background-color: red;
+    content: " Keep trying";
+}
+
+img.inverted-image:active {
+    filter: invert(100%);
+    width: 250px;
+    height: 350px;
+}
+
+#left-side3 img {
+    transition: filter 2s, height 2s, width 2s;
+}
+
+img.saturated-image:active {
+    filter: saturate(250%);
+    width: 250px;
+    height: 350px;
+}
+
+#middle3 img {
+    transition: filter 2s, height 2s, width 2s;
+}
+
+img.hue-image:active {
+    filter: hue-rotate(-90deg);
+    width: 250px;
+    height: 350px;
+}
+
+#right-side3 img {
+    transition: filter 2s, height 2s, width 2s;
+}
+
+footer img {
+    width: 200px;
+    height: 200px;
+}
