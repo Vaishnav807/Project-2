@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vaishnav's World</title>
+    <link href="main.css" type="text/css" rel="stylesheet">
+</head>
+<body id="place">
+    <header>
+        My Favorite Place
+    </header>
+
+    <p>The purpose of life is to be happy, and I believe that true happiness comes from pushing your boundaries and exploring new horizons. One of the best ways to do that is through travel. Now that you're here, I’m excited to share my favorite place I've visited. Have fun!</p> 
+    <p>Uh Oh looks like something's wrong. Don't worry, just hover over below to reveal it. Pretty Cool huh?</p>
+    <hr>
+
+    <section class="interactive-page" id="place-page">
+        <h2>Times Square</h2>
+        <img src="https://t4.ftcdn.net/jpg/06/09/19/87/360_F_609198785_OmY0i7vQ8x4xUf61hwe2cOKg18rpUzpM.jpg">
+        <br>
+        <h3>My Experience</h3>
+        <p>
+            I remember that day so clearly. On August 6, 2023, I was at my uncle's place in Pennsylvania, and we decided to take a trip to NYC. 
+            After we got there, we booked a ferry to check out the harbor and visit the Statue of Liberty. Since NYC is way cooler at night, we planned to hit Times Square later, and in the meantime, we explored other parts of the city. 
+            By the time we finally made it to Times Square, it was almost midnight, and as soon as I got there, I was blown away by the bright lights and the buzzing energy
+        </p>
+        <h3>History</h3>
+        <p>
+            Times Square, originally known as Longacre Square, got its name in 1904 when The New York Times moved its offices there. 
+            It quickly grew into a center for theater, business, and entertainment, especially with the rise of Broadway. 
+            Famous for its towering digital billboards and bright lights, it became known as "The Crossroads of the World." 
+            Today, it's a major tourist hotspot, celebrated for events like the iconic New Year's Eve ball drop and its lively atmosphere year-round.
+        </p>
+        <p>Wanna know more about this place? Check out these <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theknickerbocker.com/8-things-you-didnt-know-about-times-square/&ved=2ahUKEwjD6uqwj-SIAxULLtAFHV5ZL0oQFnoECEcQAQ&usg=AOvVaw1g02Mv2YjNdkyHWEJCVGCC" target="_blank">8 things you didn't know about Times Sqaure</a></p>
+    </section>    
+
+    <footer>
+        <a href="./main.html">
+            <img src="https://png.pngtree.com/png-clipart/20230915/original/pngtree-thin-line-house-icon-isolated-on-white-background-vector-png-image_12222347.png">
+        </a>
+    </footer>
+
+</body>
+</html>
