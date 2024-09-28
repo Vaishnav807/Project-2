@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vaishnav's World</title>
+    <link href="main.css" type="text/css" rel="stylesheet">
+</head>
+<body id="hobby">
+    <header>
+        My Favorite Hobbies
+    </header>
+
+    <p>Having a hobby is an important aspect of life. 
+        It's part of what defines us. A hobby is an activity you enjoy in your free time, something that helps you relax, have fun, or learn new skills. 
+        Whether it's reading, painting, playing sports, or collecting things, hobbies are a great way to unwind and express yourself. 
+        They allow you to explore your interests and can even lead to discovering new passions!
+    </p>
+    <p>Some of my hobbies include drawing, playing the piano, photography, etc.</p>
+    <p>(Click and hold on each image to view different filters)</p>
+
+    <hr>
+    <br>
+
+    <div id="right-side3">
+        <img class="hue-image" src="file:///Users/YOGESVAI000/Downloads/IMG_2163%203.jpg" width="200px" height="33.33%">
+    </div>
+     
+    <div id="left-side3">
+        <img class="inverted-image" src="file:///Users/YOGESVAI000/Downloads/95d8ca13-9d58-45e1-a8b6-cc946696f7b8.JPG" width="200px" height="300px">
+    </div>
+     
+    <div id="middle3">
+        <img class="saturated-image" src="file:///Users/YOGESVAI000/Downloads/06e710d7-ff0a-4e1c-8540-359cb5ca0566.JPG" width="200px" height="33.33%">
+    </div>
+
+    <br>
+    <br>
+    <br>
+
+    <footer>
+        <a href="./main.html">
+            <img src="https://png.pngtree.com/png-clipart/20230915/original/pngtree-thin-line-house-icon-isolated-on-white-background-vector-png-image_12222347.png">
+        </a>
+    </footer>
+
+    
+</body>
+</html>
