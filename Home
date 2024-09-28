@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vaishnav's World</title>
+    <link href="main.css" type="text/css" rel="stylesheet">
+</head>
+<body id="home">
+    <h1>My Homepage</h1>
+
+    <p>Hi, I am <em>Vaishnav</em>, and welcome to my world! Today, we will dive into my interests and activities, giving you a chance to learn more about me and maybe even find some common ground. 
+        I will be sharing three things: my favorite place, my favorite movie, and my hobbies. So, without further ado, feel free to click on any of the images that represent these parts of my life. Enjoy the journey!</p>
+
+    <br>
+    <nav>
+        <div id="right-side">
+            <a href="./hobby.html">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcs_9yqATXixfHDD_Ul_tpr-TfjQqqHw-tfA&s" width="33.33%" height="33.33%">
+            </a>
+        </div>
+        
+        <div id="left-side">
+            <a href="./place.html">
+                <img src="https://png.pngtree.com/png-clipart/20220429/original/pngtree-pin-location-icon-with-folded-map-png-image_7581594.png" width="33.33%" height="33.33%">
+            </a>
+        </div>
+        
+        <div id="middle">
+            <a href="./movie.html">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZWer7p366pMvvP2-99_hQ1KUPb8w-1PXDZQ&s" width="33.33%" height="33.33%">
+            </a>
+        </div>
+        
+    </nav>
+
+    <p>Thank you for visiting! Have a great time!!</p>
+</body>
+</html>
