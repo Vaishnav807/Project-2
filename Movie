@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vaishnav's World</title>
+    <link href="main.css" type="text/css" rel="stylesheet">
+</head>
+<body id="movie">
+    <header>
+        My Favorite Movie
+    </header>
+
+    <p>Movies are one of the best forms of entertainment. 
+        It's fascinating how each film is made and how they've remained popular for so long. 
+        There are so many platforms online that let us watch and relax whenever we want, with new movies added every month. 
+        If I had to pick one movie or series, it would be Pirates of the Caribbean.
+    </p>
+    <p>Ever heard of that movie? Let's put it to the test, shall we?</p>
+    <hr>
+
+    <section id="movie-page">
+        <h2>Pirates of the Caribbean</h2>
+        <img src="https://www.hdwallpapers.in/download/jack_sparrow_sky_background_4k_5k_hd_superheroes-3840x2160.jpg">
+
+        <h3>Who is this person? <em>(Click on the options to reveal the answer)</em></h3>
+
+        <div id="right-side2">
+           Dora the Explorer
+        </div>
+        
+        <div id="left-side2">
+            Captain Jack Sparrow
+        </div>
+        
+        <div id="middle2">
+            Shrek
+        </div>
+        <br>
+        <hr>
+
+        <p>
+            Pirates of the Caribbean is a popular action-adventure movie series set in the 18th-century Caribbean, full of swashbuckling pirates, cursed treasures, and supernatural elements. 
+            The story primarily follows a quirky and unpredictable pirate, as he navigates through wild adventures, often involving treasure hunts, magical curses, and rivalries with other pirates.
+            The series is known for its humor, thrilling sword fights, epic sea battles, and the iconic character of Jack Sparrow, played by Johnny Depp, who brings an eccentric, comedic edge to the role. 
+            Each movie blends pirate lore, mythology, and a sense of high-seas adventure.
+        </p>    
+
+    </section>
+
+
+    <footer>
+        <a href="./main.html">
+            <img src="https://png.pngtree.com/png-clipart/20230915/original/pngtree-thin-line-house-icon-isolated-on-white-background-vector-png-image_12222347.png">
+        </a>
+    </footer>
+
+</body>
+</html>
